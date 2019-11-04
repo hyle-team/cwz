@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -v
 
 SOURCE_DIR=`pwd`
 EXTERNAL_DIR_PATH="$SOURCE_DIR/../SharedExternal"

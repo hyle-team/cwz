@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -v
 
 SOURCE_DIR=`pwd`
 SHARED_LIBS_PATH="$SOURCE_DIR/SharedExternal"

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -v
 
 ./install_shared_libs.sh
 ./install_lmdb.sh

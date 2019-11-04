@@ -1,3 +1,4 @@
+set -x
 SOURCE_DIR=`pwd`
 LMDB_DIR_URL="https://github.com/caketechio/lmdb.git"
 LMDB_DIR_PATH="$SOURCE_DIR/lmdb/Sources"
