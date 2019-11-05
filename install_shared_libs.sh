@@ -3,7 +3,7 @@
 SOURCE_DIR=`pwd`
 SHARED_LIBS_PATH="$SOURCE_DIR/SharedExternal"
 EXTERNAL_SOURCES_DIR_PATH="$SHARED_LIBS_PATH/sources"
-BOOST_URL="https://github.com/fotolockr/ofxiOSBoost.git"
+BOOST_URL="https://github.com/hyle-team/ofxiOSBoost.git"
 BOOST_DIR_PATH="$EXTERNAL_SOURCES_DIR_PATH/ofxiOSBoost"
 OPEN_SSL_URL="https://github.com/x2on/OpenSSL-for-iPhone.git"
 OPEN_SSL_DIR_PATH="$EXTERNAL_SOURCES_DIR_PATH/OpenSSL"
